@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdminButton.cs" />
     <Compile Include="ChangeRemoteDesktopPort.cs">
       <SubType>Form</SubType>
     </Compile>
