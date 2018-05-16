@@ -60,6 +60,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reg.cs" />
     <EmbeddedResource Include="ChangeRemoteDesktopPort.resx">
       <DependentUpon>ChangeRemoteDesktopPort.cs</DependentUpon>
     </EmbeddedResource>
